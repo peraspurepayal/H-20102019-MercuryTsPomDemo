@@ -30,6 +30,7 @@ public class Loginpage
 	
 	public void enterUsername(String username)
 	{
+		System.out.println("enter username");
 		objusername.sendKeys(username);
 	}
 	
