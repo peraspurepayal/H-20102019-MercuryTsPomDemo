@@ -25,6 +25,7 @@ public class Loginpage
 	
 	public void loadLoginpage()
 	{
+	        System.out.println("enter username");
 		PageFactory.initElements(Config.driver, this);
 	}
 	
