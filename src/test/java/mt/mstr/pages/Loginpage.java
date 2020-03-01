@@ -25,12 +25,14 @@ public class Loginpage
 	
 	public void loadLoginpage()
 	{
-	        System.out.println("enter username");
+		
+	        c
 		PageFactory.initElements(Config.driver, this);
 	}
 	
-	public void enterUsername(String username)
+	public void enterUsername(String usernamez
 	{
+               System.out.println("enter username");
 		System.out.println("enter username");
 		objusername.sendKeys(username);
 	}
