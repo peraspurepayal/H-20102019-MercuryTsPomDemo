@@ -8,6 +8,15 @@ import org.testng.annotations.Test;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+import org.testng.annotations.Test;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
 import mt.mstr.utility.LaunchApp;
 
 import org.testng.annotations.Test;
